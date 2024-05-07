@@ -64,10 +64,10 @@ export default {
     template: `
     <div class="blue card" @click="openModal()" style="cursor: pointer">
         <div class="content">
-            <a class="ui blue right ribbon label">Send</a>
-            <div class="header">Send Message</div>
+            <a class="ui blue right ribbon label">Enviar</a>
+            <div class="header">Enviar Mensaje</div>
             <div class="description">
-                Send any message to user or group
+                Enviar Mensaje a Un usuario o Grupo
             </div>
         </div>
     </div>
